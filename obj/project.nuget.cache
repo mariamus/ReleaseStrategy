@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FpER5nyeZRu/6EO+ViLrL0SFHLkBxCG0kmtlj+Es5IbSVEOAa4fBRBbVdqbYWwMVrcm2z+VkPg1ezIBGGkmlmA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\ReleaseStrategy\\ReleaseStrategy\\ReleaseStrategy.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.nmester.dk:3311/api/odata'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.nmester.dk:3311/api/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
