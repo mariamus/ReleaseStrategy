@@ -15,13 +15,11 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-//add comment 
-//update on Task-001
+
 app.UseRouting();
 
 app.UseAuthorization();
-//doing more updates on Task-001
-//Update on Task-001 after merge into Test
+
 
 app.MapRazorPages();
 
