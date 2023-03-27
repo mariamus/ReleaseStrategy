@@ -17,6 +17,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 //change-001
 app.UseRouting();
+//random bullshit go
 
 app.UseAuthorization();
 
